@@ -1,4 +1,3 @@
-/* Global Styles */
 body, h1, h2, p, ul, li, a, input, textarea {
     margin: 0;
     padding: 0;
@@ -17,7 +16,6 @@ body {
     overflow: hidden;
 }
 
-/* Header */
 header {
     background-color: #333;
     color: #fff;
@@ -49,8 +47,6 @@ header nav ul li a {
     color: #fff;
     text-decoration: none;
 }
-
-/* About Section */
 #about {
     background: #fff;
     padding: 20px 0;
@@ -60,8 +56,6 @@ header nav ul li a {
 #about h2 {
     margin-bottom: 10px;
 }
-
-/* Projects Section */
 #projects {
     background: #f9f9f9;
     padding: 20px 0;
@@ -82,8 +76,6 @@ header nav ul li a {
     width: 30%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-
-/* Skills Section */
 #skills {
     background: #fff;
     padding: 20px 0;
@@ -102,7 +94,6 @@ header nav ul li a {
     margin: 5px;
 }
 
-/* Contact Section */
 #contact {
     background: #f9f9f9;
     padding: 20px 0;
@@ -129,8 +120,6 @@ header nav ul li a {
     border: none;
     cursor: pointer;
 }
-
-/* Footer */
 footer {
     background: #333;
     color: #fff;
